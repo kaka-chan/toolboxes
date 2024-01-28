@@ -1,0 +1,7 @@
+Cython==0.29.30
+numpy==1.26.3
+onvif_zeep==0.2.12
+opencv_python==4.9.0.80
+Pympler==1.0.1
+Requests==2.31.0
+setuptools==68.0.0
